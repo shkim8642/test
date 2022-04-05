@@ -10,3 +10,4 @@ soup = BeautifulSoup(webpage.content, "html.parser")
 #     print(parent)
 
 print(soup.find_all("h2"))
+print(soup.find_all("h1"))
