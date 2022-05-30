@@ -29,3 +29,6 @@ worksheet.append_row(['new1', 'new2', 'new3', 'new4'])
 
 #특정 위치에 한 행을 추가하고 싶다면 insert_row를 쓰고 행 번호를 넣어주어야 한다. 예를 들어 4번 행에 추가하고 싶다면 이렇게.
 worksheet.insert_row(['new1', 'new2', 'new3', 'new4'], 4)
+
+#특정 위치에 한 행을 추가하고 싶다면 insert_row를 쓰고 행 번호를 넣어주어야 한다. 예를 들어 4번 행에 추가하고 싶다면 이렇게.
+worksheet.insert_row(['new1', 'new2', 'new3', 'new4'], 4)
